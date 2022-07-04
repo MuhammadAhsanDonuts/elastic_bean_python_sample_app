@@ -1,4 +1,3 @@
-ansible==5.8.0
 ansible-core==2.12.6
 appdirs==1.4.3
 attrs==19.3.0
